@@ -7,3 +7,5 @@ The result is a full text fast search engine among torrents names.
 
 The full database of almost 3 million records is udated on a regular base (see releases)
 
+![screenshot](./screenshot.png)
+
