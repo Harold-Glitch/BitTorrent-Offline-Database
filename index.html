@@ -576,9 +576,6 @@
     function search2() {
       _result_count = 0;
 
-      //if (document.getElementById("stxt").value.length < 3)
-      //  return;
-
       var regEx = new RegExp(document.getElementById("stxt").value, 'gi');
 
       while ((match = regEx.exec(db)) != null) {
