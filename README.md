@@ -5,5 +5,5 @@ Unzip the two files in a directory and just click on index.html all is included.
 
 The result is a full text fast search engine among torrents names.
 
-The full database of almost 3 million records is udated on a regular base.
+The full database of almost 3 million records is udated on a regular base (see releases)
 
